@@ -72,7 +72,7 @@ def jalan(z):
         sys.stdout.flush()
         time.sleep(0.01)
  
-logo =
+logo =("
 
 $$$$$$$\            $$\       $$\ $$\       
 $$  __$$\           $$ |      \__|$$ |      
